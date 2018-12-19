@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1545181680 source:/home/mariam/Documentos/Tarea recursividad/main.cpp
+	<iostream>
+	<math.h>
+	<sstream>
+	<stdlib.h>
+	"REGISTRO.h"
+	"FUNCIONES.h"
+	"MENU.cpp"
+	"FUNCIONES.cpp"
+
+1545183443 /home/mariam/Documentos/Tarea recursividad/REGISTRO.h
+
+1545181223 /home/mariam/Documentos/Tarea recursividad/FUNCIONES.h
+
+1545183535 /home/mariam/Documentos/Tarea recursividad/MENU.cpp
+
+1545183601 /home/mariam/Documentos/Tarea recursividad/FUNCIONES.cpp
+
